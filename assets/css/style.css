@@ -47,3 +47,17 @@ button{
   border:2px solid blue;
   background: yellow;
 }
+
+img{
+  height:200px;
+}
+
+h2{
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+
+h3{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
