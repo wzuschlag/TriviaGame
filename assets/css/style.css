@@ -1,0 +1,49 @@
+html{	
+  height:100%;
+}
+
+body{
+  height:100%;	
+  background-image: url(../images/colorsmoke.png);
+  text-align: center;
+}
+
+#wrapper{
+  margin:2.5% auto;
+  background-color: #e62e00;
+  width:960px;
+  height: 80%;
+  box-sizing: border-box;
+}
+
+h1{
+  font-family: 'Bungee', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: black;
+  padding-top: 4%;
+}
+
+#startarea{
+  position: relative;
+}
+
+button{
+  display:block;
+  width:33%;
+  height:20%;
+  margin: 0 auto;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+#start{
+  margin-top: 10%;
+  border:2px solid black;
+  background: blue;
+}
+
+#start:hover {
+  border:2px solid blue;
+  background: yellow;
+}
